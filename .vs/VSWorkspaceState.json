@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\app",
+    "\\src\\app\\ui",
+    "\\typings\\appium-base-driver",
+    "\\typings\\appium-support",
+    "\\typings\\appium-xcuitest-driver\\build"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}
